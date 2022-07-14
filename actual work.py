@@ -5,3 +5,4 @@ while (i<100):
      list.append(x-i)
      i=i+1
 print (list)
+print (list)
